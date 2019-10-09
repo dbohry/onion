@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../MobileAppAutomationTest/AndroidDemo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../categorization" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../mine-ctl" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nova-api-gateway" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nova-core-communication" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nova-core-inbox" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nova-core-transactions" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nova-end-to-end-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nova-exact-integration-module" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nova-fabrick-connector" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nova-figo-connector" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nova-fql" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nova-ftl" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nova-infrastructure-audit-trail-client" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nova-invoices-infrastructure-exception-mapping" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nova-invoices-infrastructure-jpa" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nova-invoices-infrastructure-sync" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nova-microproduct-bpem" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nova-os-config-server" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nova-os-service-registry" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nova-os-user-authenticator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nova-solaris-connector" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nova-transactions-migrations" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../weather-ktl" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RxaDJSst858CpF4co42wtycKi9" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+</project>
